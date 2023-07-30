@@ -1,0 +1,48 @@
+* {
+    background-color: rgba(255, 241, 223, 0.665);
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#izq {
+    float: left;
+}
+
+#der {
+    float: right;
+}
+
+h1 {
+
+}
+
+.header {
+    margin-bottom: 50px;
+    position: relative;
+    display: block;
+}
+
+.presentacion {
+    position: relative;
+    display: block;
+    align-items: center;
+    float: flex;
+}
+
+img {
+    float: right;
+    margin-left: 0 10 10 0;
+}
+
+h2 {
+    float: left;
+}
+
+p.der{
+    float: right;
+}
